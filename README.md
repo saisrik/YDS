@@ -1,3 +1,0 @@
-# YDS
-Data science
-Assignement 
